@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻 Middle Frontend Developer<br>⏲  2+ years of commercial experience<br>🌐 JavaScript and TypeScript<br>💻 React and VueJS<br>🏢 Current company - Cognizant<br>🇵🇱 Warsaw, Poland
 
 
