@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 Middle Frontend Developer<br>🗓️ 3+ years of commercial experience<br>🌐 JavaScript and TypeScript<br>💻 React and VueJS<br>🏢 Current company - ITSharkz & Medicalib<br>🇵🇱 Warsaw, Poland
+👨‍💻 Middle Frontend Developer<br>🗓️ 3+ years of commercial experience<br>🌐 JavaScript and TypeScript<br>💻 React and VueJS<br>🏢 Current companies - ITSharkz & Medicalib<br>🇵🇱 Warsaw, Poland
 
 
 ## Socials:
