@@ -1,5 +1,5 @@
 # About Me:
-👨‍💻 Frontend Developer<br>🗓️ 4+ years of commercial experience<br>🌐 JavaScript and TypeScript<br>💻 React and VueJS<br>🏢 Current companies - Toloka.ai and SiriusOne.com<br>🇵🇱 Warsaw, Poland<br>My [portfolio link](https://github.com/hushdev/projects-portfolio)
+👨‍💻 Frontend Developer<br>🗓️ 4+ years of commercial experience<br>🌐 JavaScript and TypeScript<br>💻 React and VueJS<br>🏢 Current companies - Toloka.ai and SiriusOne.com<br>🇵🇱 Warsaw, Poland<br>💼 [My portfolio](https://github.com/hushdev/projects-portfolio)
 
 
 ## Socials:
